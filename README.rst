@@ -13,8 +13,8 @@ To use (with caution), simply do::
 
 It's that simple!
 
-db.json
-^^^^^^^
+db
+^^
 The most interesting part of this module is the hashing of all the cards.
 The hashes are taken of only a certain crop of the card image, a good portion
 of the artwork. This is explained in "crop_explained.png" and you can see

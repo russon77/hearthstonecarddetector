@@ -1,3 +1,2 @@
-include hearthstonecarddetector/db.json
 include README.rst
 include crop_explained.png
